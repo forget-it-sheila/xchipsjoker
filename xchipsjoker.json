@@ -1,0 +1,16 @@
+{
+  "id": "xchipsjoker",
+  "name": "xchips joker",
+  "display_name": "xchips joker",
+  "author": [
+    "forget.it.sheila"
+  ],
+  "description": "adds a scaling xchips joker",
+  "prefix": "xchipsjoker",
+  "main_file": "xchipsjoker.lua",
+  "priority": 0,
+  "version": "1.0.0",
+  "dependencies": [
+    "Steamodded (>=26.1002.0)"
+  ]
+}

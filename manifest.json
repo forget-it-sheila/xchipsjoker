@@ -1,0 +1,9 @@
+{
+    "name": "xchipsjoker",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/forget-it-sheila/xchipsjoker",
+    "description": "a mod that adds a scaling xchips joker",
+    "dependencies": [
+        "Steamodded-Steamodded-26.1002.0"
+    ]
+}
