@@ -9,6 +9,8 @@ SMODS.Atlas({
 
 SMODS.Joker({
 	key = "xchipsjoker",
+	cost = 6,
+	rarity = 2,
 	config = {
 		extra = {
 			xchips = 1,

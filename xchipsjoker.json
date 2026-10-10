@@ -9,8 +9,9 @@
   "prefix": "xchipsjoker",
   "main_file": "xchipsjoker.lua",
   "priority": 0,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": [
     "Steamodded (>=26.1002.0)"
-  ]
+  ],
+  "icon_path": "icon.png"
 }
