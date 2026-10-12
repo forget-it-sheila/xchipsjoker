@@ -18,6 +18,9 @@ SMODS.Joker({
 		},
 	},
 	atlas = "xchipsjoker",
+	perishable_compat = false,
+	eternal_compat = true,
+	blueprint_compat = true,
 	loc_vars = function(self, info_queue, card)
 		return {
 			vars = {
