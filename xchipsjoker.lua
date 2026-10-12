@@ -11,16 +11,20 @@ SMODS.Joker({
 	key = "xchipsjoker",
 	cost = 6,
 	rarity = 2,
+	atlas = "xchipsjoker",
+	perishable_compat = false,
+	eternal_compat = true,
+	blueprint_compat = true,
 	config = {
 		extra = {
 			xchips = 1,
 			xchips_gain = 0.25,
 		},
 	},
-	atlas = "xchipsjoker",
-	perishable_compat = false,
-	eternal_compat = true,
-	blueprint_compat = true,
+	attributes = {
+		"xchips",
+		"scaling",
+	},
 	loc_vars = function(self, info_queue, card)
 		return {
 			vars = {
